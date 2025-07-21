@@ -1,0 +1,17 @@
+# Python Project: 
+Download a dataset from kaggle website
+
+(Data preprocessing with the Pandas library)
+1. Apply all the Python Pandas concepts on this dataset
+      1. Data preprocessing - 
+         a. Missing values handling, 
+         b. Outliers handling, 
+         c. Scaling, 
+         d. Encoding
+      2. Filtering, sorting, Grouping
+      3. Joins
+      4. EDA - Data visualization
+      5. All the pandas concepts
+
+
+Kaggle website link: https://www.kaggle.com/datasets
